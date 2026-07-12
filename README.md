@@ -12,7 +12,7 @@ A complete Security Monitoring laboratory built with <b>Wazuh</b>, <b>Suricata</
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) • ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420) •![Wazuh](https://img.shields.io/badge/Wazuh-4.x-0266C8) • ![Suricata](https://img.shields.io/badge/Suricata-IDS-red) • ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-darkred) • ![License](https://img.shields.io/badge/License-MIT-green)
+     ![Python](https://img.shields.io/badge/Python-3.x-blue) • ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420) •![Wazuh](https://img.shields.io/badge/Wazuh-4.x-0266C8) • ![Suricata](https://img.shields.io/badge/Suricata-IDS-red) • ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-darkred) • ![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
