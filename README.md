@@ -140,7 +140,7 @@ The laboratory validates multiple real-world attack scenarios to demonstrate the
 
 Each scenario produces security events collected, correlated and visualized by Wazuh.
 
-## Scenario 1 — File Integrity Monitoring (FIM)
+## Scenario 1 - File Integrity Monitoring (FIM)
 
 The first scenario demonstrates how Wazuh detects unauthorized modifications to monitored files.
 
@@ -162,7 +162,7 @@ Whenever a protected file is created, modified or deleted, the File Integrity Mo
 
 ✔️ Successful detection of file modifications.
 
-## Scenario 2 — Network Intrusion Detection (Suricata)
+## Scenario 2 - Network Intrusion Detection (Suricata)
 
 Suricata analyzes network traffic and generates IDS alerts whenever suspicious packets are detected.
 
@@ -184,7 +184,7 @@ The generated events are forwarded to Wazuh for centralized analysis.
 
 ✔️ Successful integration between Suricata and Wazuh.
 
-## Scenario 3 — SSH Brute Force Attack
+## Scenario 3 - SSH Brute Force Attack
 
 A brute-force attack was launched from Kali Linux using Hydra against an Ubuntu SSH service.
 
@@ -198,7 +198,7 @@ Repeated authentication failures were detected and correlated by Wazuh.
 
 **MITRE ATT&CK**
 
-- T1110 — Brute Force
+- T1110 - Brute Force
 
 **Detection**
 
@@ -210,7 +210,7 @@ Repeated authentication failures were detected and correlated by Wazuh.
 
 ✔️ Brute-force attack successfully detected.
 
-## Scenario 4 — Unauthorized User Creation
+## Scenario 4 - Unauthorized User Creation
 
 An unauthorized local account was created on the monitored machine.
 
@@ -224,7 +224,7 @@ Wazuh immediately generated alerts after detecting modifications to the system a
 
 **MITRE ATT&CK**
 
-- T1136 — Create Account
+- T1136 - Create Account
 
 **Detection**
 
@@ -235,7 +235,7 @@ Wazuh immediately generated alerts after detecting modifications to the system a
 
 ✔️ Account creation successfully detected.
 
-## Scenario 5 — Privilege Escalation
+## Scenario 5 - Privilege Escalation
 
 A privileged command executed through sudo generated security events collected by Wazuh.
 
@@ -249,7 +249,7 @@ The laboratory demonstrates monitoring of privileged operations performed on Lin
 
 **MITRE ATT&CK**
 
-- T1548.003 — Sudo and Sudo Caching
+- T1548.003 - Sudo and Sudo Caching
 
 **Detection**
 
@@ -409,7 +409,7 @@ Developed by
 
 **Aaron ABAVI**
 
-Professional Master's in Computer Science — Cybersecurity
+Professional Master's in Computer Science - Cybersecurity
 
 Université du Québec à Chicoutimi (UQAC)
 
